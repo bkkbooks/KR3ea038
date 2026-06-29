@@ -1,0 +1,151 @@
+canonical_identifier: bkk:krp/KR3ea038/v1
+canonical_location: https://kanripo.org/bkk/KR3ea038/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 內經知要
+  identifiers:
+    krp: KR3ea038
+  tags:
+    kr-categories: KR3ea
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ea038.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ea038_000.yaml, hash: 'sha256:7b8fff4a55078dcb86eeb86a8d911e1364496e84f5dfe81fae64ce90b2cd754b'}
+  - {seq: 1, filename: KR3ea038_001.yaml, hash: 'sha256:214d79dbb0de669fb059a8cd3759fcf72051117a14c4712d7b28ff23dbf233c0'}
+  - {seq: 3, filename: KR3ea038_003.yaml, hash: 'sha256:e9f61784c2aa33e98e4247600ffd4db196cdc706a9199be1141c98feba739d9d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ea038_000.markers.yaml, hash: 'sha256:d842ced535109a454da85a80860d16e274fe85359d635fedc3eebc15a84387a9'}
+  - {seq: 1, role: markers, filename: assets/KR3ea038_001.markers.yaml, hash: 'sha256:9af73fd29e13bb571c5c85bab411254e8845fb56f3b1cf461d461e557b8ddbba'}
+  - {seq: 3, role: markers, filename: assets/KR3ea038_003.markers.yaml, hash: 'sha256:daca360dc79d1c6bc6e16a3c1f6428fd2cac747d62c925037ba86d06c0ad16a2'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ea038_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 714
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ea038_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 23479
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ea038_jc_001-d3d2
+    span:
+    - body
+    - 2
+    - 4903
+  label: 一道生
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea038_jc_001-d3d3
+    span:
+    - body
+    - 4903
+    - 8594
+  label: 二陰陽
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea038_jc_001-d3.d3d28
+    span:
+    - body
+    - 7847
+    - 8594
+  label: 六十四卦方圓二圖
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ea038_jc_001-d3d4
+    span:
+    - body
+    - 8594
+    - 11462
+  label: 三色診
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea038_jc_001-d3d5
+    span:
+    - body
+    - 11462
+    - 17474
+  label: 四脈診
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ea038_jc_001-d3d6
+    span:
+    - body
+    - 17474
+    - 23479
+  label: 五藏象
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea038_jc_003-d4.h1s1
+    span:
+    - body
+    - 0
+    - 31028
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ea038_jc_003-d4d2
+    span:
+    - body
+    - 2
+    - 5989
+  label: 一經絡
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea038_jc_003-d4d3
+    span:
+    - body
+    - 5989
+    - 8898
+  label: 二治則
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ea038_jc_003-d4d4
+    span:
+    - body
+    - 8898
+    - 31028
+  label: 三病能
+  type: section
+  level: 2
+hash: sha256:e68b719f9bd027f0d68a0db2f60bca55d653637945a4cde9adf010951b06c95a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
