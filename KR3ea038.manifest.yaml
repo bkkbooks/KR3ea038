@@ -22,8 +22,8 @@ assets:
   - {seq: 3, filename: KR3ea038_003.yaml, hash: 'sha256:ecce71163046b5b8200a9e786ced3c2d708898bd4111a551fd273daae6551c40'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3ea038_000.markers.yaml, hash: 'sha256:c7bfe211bdf26885e1d243eff7982b2a9c4d883d61a4684dd40f8be66716932b'}
-  - {seq: 1, role: markers, filename: assets/KR3ea038_001.markers.yaml, hash: 'sha256:07cf88102997b154ab8ba330d90431d2cccbd810d8710e1e0a54db0e7e7780e2'}
-  - {seq: 3, role: markers, filename: assets/KR3ea038_003.markers.yaml, hash: 'sha256:9e558bb7c6037171f5f7046f3448d8efd5df6fcb10c86fe0123a3789ea09cb77'}
+  - {seq: 1, role: markers, filename: assets/KR3ea038_001.markers.yaml, hash: 'sha256:e2af2b14d74d5be242a24ec4c99b6cba37ffbf5107d75993882504651b821f54'}
+  - {seq: 3, role: markers, filename: assets/KR3ea038_003.markers.yaml, hash: 'sha256:90327cd6fea17882e8b1fe6d7deef769152762e459c36347a1fe2efa0f782cd3'}
 table_of_contents:
 - ref:
     seq: 0
@@ -145,7 +145,7 @@ table_of_contents:
   label: 三病能
   type: section
   level: 2
-hash: sha256:bb03f95720e2ff47d170c6f968436abf1acbed126ae4ca420c2aabc2f9537425
+hash: sha256:6690b27cd90d5bbbd09621833d197d662b64751a899de4441b5dac7c9e332212
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

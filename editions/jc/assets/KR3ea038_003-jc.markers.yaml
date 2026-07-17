@@ -603,6 +603,7 @@ markers:
   - {type: 'tls:seg-end', offset: 1101, content: '', id: KR3ea038_jc_003-d4.d2.p8s11_end, seg_type: comm}
   - {type: 'tls:seg', offset: 1101, content: '', id: KR3ea038_jc_003-d4.d2.p8s12}
   - {type: punctuation, offset: 1103, content: (, id: KR3ea038_jc_003-bkkpn282}
+  - {type: voice, offset: 1103, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 1105, content: ), id: KR3ea038_jc_003-bkkpn283}
   - {type: punctuation, offset: 1106, content: ，, id: KR3ea038_jc_003-bkkpn284}
   - {type: 'tls:seg', offset: 1106, content: '', id: KR3ea038_jc_003-d4.d2.p8s13}
@@ -5231,6 +5232,7 @@ markers:
   - {type: punctuation, offset: 11154, content: ，, id: KR3ea038_jc_003-bkkpn2501}
   - {type: 'tls:seg', offset: 11154, content: '', id: KR3ea038_jc_003-d4.d4.p10s41}
   - {type: punctuation, offset: 11157, content: (, id: KR3ea038_jc_003-bkkpn2502}
+  - {type: voice, offset: 11157, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 11159, content: ), id: KR3ea038_jc_003-bkkpn2503}
   - {type: 'tls:seg-start', offset: 11160, content: '', id: KR3ea038_jc_003-d4.d4.p10s42, seg_type: comm, member_ids: [KR3ea038_jc_003-d4.d4.p10s42, KR3ea038_jc_003-d4.d4.p10s43, KR3ea038_jc_003-d4.d4.p10s44, KR3ea038_jc_003-d4.d4.p10s45, KR3ea038_jc_003-d4.d4.p10s46, KR3ea038_jc_003-d4.d4.p10s47, KR3ea038_jc_003-d4.d4.p10s48, KR3ea038_jc_003-d4.d4.p10s49, KR3ea038_jc_003-d4.d4.p10s50, KR3ea038_jc_003-d4.d4.p10s51, KR3ea038_jc_003-d4.d4.p10s52]}
   - {type: 'tls:seg', offset: 11160, content: '', id: KR3ea038_jc_003-d4.d4.p10s42}
@@ -5295,6 +5297,7 @@ markers:
   - {type: punctuation, offset: 11255, content: ，, id: KR3ea038_jc_003-bkkpn2533}
   - {type: 'tls:seg', offset: 11255, content: '', id: KR3ea038_jc_003-d4.d4.p10s69}
   - {type: punctuation, offset: 11259, content: (, id: KR3ea038_jc_003-bkkpn2534}
+  - {type: voice, offset: 11259, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 11261, content: ), id: KR3ea038_jc_003-bkkpn2535}
   - {type: punctuation, offset: 11261, content: 。, id: KR3ea038_jc_003-bkkpn2536}
   - {type: 'tls:seg', offset: 11261, content: '', id: KR3ea038_jc_003-d4.d4.p10s70}
@@ -10430,6 +10433,7 @@ markers:
   - {type: punctuation, offset: 22037, content: ，, id: KR3ea038_jc_003-bkkpn4990}
   - {type: 'tls:seg', offset: 22037, content: '', id: KR3ea038_jc_003-d4.d4.p128s6}
   - {type: punctuation, offset: 22038, content: (, id: KR3ea038_jc_003-bkkpn4991}
+  - {type: voice, offset: 22038, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 22040, content: ), id: KR3ea038_jc_003-bkkpn4992}
   - {type: punctuation, offset: 22043, content: ，, id: KR3ea038_jc_003-bkkpn4993}
   - {type: 'tls:seg', offset: 22043, content: '', id: KR3ea038_jc_003-d4.d4.p128s7}
@@ -14307,6 +14311,7 @@ markers:
   - {type: punctuation, offset: 29974, content: ，, id: KR3ea038_jc_003-bkkpn6844}
   - {type: 'tls:seg', offset: 29974, content: '', id: KR3ea038_jc_003-d4.d4.p200s55}
   - {type: punctuation, offset: 29977, content: (, id: KR3ea038_jc_003-bkkpn6845}
+  - {type: voice, offset: 29977, length: 2, name: note, id: n5}
   - {type: punctuation, offset: 29979, content: ), id: KR3ea038_jc_003-bkkpn6846}
   - {type: 'tls:seg-start', offset: 29980, content: '', id: KR3ea038_jc_003-d4.d4.p200s56, seg_type: comm, member_ids: [KR3ea038_jc_003-d4.d4.p200s56, KR3ea038_jc_003-d4.d4.p200s57, KR3ea038_jc_003-d4.d4.p200s58, KR3ea038_jc_003-d4.d4.p200s59, KR3ea038_jc_003-d4.d4.p200s60, KR3ea038_jc_003-d4.d4.p200s61, KR3ea038_jc_003-d4.d4.p200s62, KR3ea038_jc_003-d4.d4.p200s63]}
   - {type: 'tls:seg', offset: 29980, content: '', id: KR3ea038_jc_003-d4.d4.p200s56}
@@ -14736,4 +14741,4 @@ markers:
   - {type: punctuation, offset: 31028, content: 。, id: KR3ea038_jc_003-bkkpn7052}
   - {type: xml-element, offset: 31028, content: '', id: KR3ea038_jc_003-d4.d4p204_end, name: p, role: close, attrs: {'xml:id': KR3ea038_jc_003-d4.d4p204}}
   back: []
-hash: sha256:560ff0d3662d9b1bf9012aecae70816c94ad8f8bc7e8fdbcae759e93ca7df9bd
+hash: sha256:c29b25ac285226a95d481f02fc76a64e9214e866904933cd65e2d427bdd9097f
